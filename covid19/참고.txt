@@ -1,0 +1,7 @@
+https://zzsza.github.io/development/2018/08/24/data-visualization-in-python/
+
+
+https://plotly.com/python/animations/
+
+
+https://www.google.com/search?ei=VpyiXrSrHqiHr7wPka6w-AY&q=python+%EB%8F%99%EC%A0%81+%EA%B7%B8%EB%9E%98%ED%94%84&oq=python+%EB%8F%99%EC%A0%81+%EA%B7%B8%EB%9E%98%ED%94%84&gs_lcp=CgZwc3ktYWIQAzIFCCEQoAEyBQghEKABOggIABAIEAoQHjoCCAA6BAghEBVQ44wCWPepAmDGqgJoBHAAeAGAAXKIAdYMkgEEMTUuM5gBAKABAaoBB2d3cy13aXo&sclient=psy-ab&ved=0ahUKEwi0rpvwy4DpAhWow4sBHREXDG8Q4dUDCAw&uact=5
