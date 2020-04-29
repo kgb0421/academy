@@ -1,3 +1,4 @@
-covid.ipynb의 시각화는 현재 plotly를 사용하고 있습니다.
-그렇기 때문에 유저 자바스크립트를 지원하지 않는 github에서는 시각화 파일을 바로 볼 수 없습니다.
-그래서 https://nbviewer.jupyter.org/으로 이동하여 github.com/kgb0421/academy를 입력하여 시각화를 제대로 볼 수 있습니다.
+## covid.ipynb의 시각화는 현재 plotly를 사용하고 있습니다.
+## plotly 같은 경우 자바스크립트 기반 브라우저 플롯팅 라이브러리 입니다.
+## 그렇기 때문에 유저 자바스크립트를 지원하지 않는 github에서는 시각화 파일을 바로 볼 수 없습니다.
+## 그래서 https://nbviewer.jupyter.org/으로 이동하여 github.com/kgb0421/academy를 입력하여 시각화를 제대로 볼 수 있습니다.
